@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BALLTAP</string>
+    <string name="StartImage">Startimage</string>
+    <string name="Taplogo">logo</string>
+    <string name="startbutton">srt_btn</string>
+    <string name="score_0_nhigh_score_0"> </string>
+    <string name="back">Back</string>
+    <string name="restart">Restart</string>
+    <string name="score">score</string>
+    <string name="scoreimg">score\n</string>
+    <string name="pause">pause</string>
+    <string name="backbtn">backbtn</string>
+    <string name="HighScore">HighScore</string>
+    <string name="highscore">TODO</string>
+    <string name="restartbtn">restart\n</string>
+    <string name="scorerimg">score\n</string>
+</resources>
