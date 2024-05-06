@@ -32,7 +32,5 @@ To run the Tap Game on your device, follow these steps:
 - ViewModel
 
 
-### Credits
-- Sound effects obtained from [OpenGameArt.org](https://opengameart.org)
-- Ball images created by [Freepik](https://www.freepik.com)
+
 
